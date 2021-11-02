@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "sourceMap": true,
+        "rootDir": "./ts",
+        "outFile": "./js/app.js"
+    }
+}
